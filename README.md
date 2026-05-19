@@ -5,15 +5,6 @@ This project features an interactive Excel data dashboard built to analyze custo
 
 ---
 
-## 📊 The Dashboard
-*Below is a visual preview of the core analytical layout:*
-
-![Bike Sales Dashboard Preview](images/dashboard_snapshot.png)
-
-*(If you prefer an uncompressed view, you can check out the [PDF Version](dashboard_layout.pdf) included in the repository).*
-
----
-
 ## 🔍 Key Insights & Business Observations
 * **Income & Gender Dynamics:** Higher-income brackets correlate significantly with increased bike purchasing frequency, with male customers showing a slightly higher conversion rate in middle-income segments.
 * **Commute Distance Factor:** Customers living within a 0–1 mile commute radius represent the primary purchasing demographic, suggesting that proximity or short-distance commuting drives necessity.
